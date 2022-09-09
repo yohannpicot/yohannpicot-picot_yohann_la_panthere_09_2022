@@ -197,6 +197,13 @@ a:hover {
 .l-bloc {
     color: rgba(0, 0, 0, .5);
 }
+.text_p{
+    text-align: center;
+    font-size: 20px;
+}
+.auteur{
+    text-align: center;
+}
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -677,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -775,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #fcfcfc!important;
 }
 
 .btn-atomic-tangerine {
