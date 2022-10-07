@@ -199,7 +199,7 @@ a:hover {
 }
 .text_p{
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
 }
 .auteur{
     text-align: center;
@@ -683,7 +683,9 @@ a {
     max-width: 520px;
     margin: auto auto auto auto;
 }
-
+#text_top_portfolio{
+    font-size: 25px;
+}
 p {
     font-size: 15px;
 }
